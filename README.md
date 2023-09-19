@@ -18,7 +18,6 @@ Before using this project, make sure you have the following dependencies install
 - OpenCV
 - matplotlib
 - Google Colab (if you're using the Colab environment)
-- deepface (for face recognition)
 
 ## Installation
 
