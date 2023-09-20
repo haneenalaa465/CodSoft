@@ -24,7 +24,7 @@ Before using this project, make sure you have the following dependencies install
 You can install the required Python packages using pip:
 
 ```bash
-pip install opencv-python-headless matplotlib deepface
+pip install opencv-python-headless matplotlib cv2
 ```
 ## Usage
 
