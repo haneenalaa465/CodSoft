@@ -13,20 +13,10 @@ This project is a simple implementation of the classic game Tic-Tac-Toe with an 
 
 To get started with the Tic-Tac-Toe AI, follow these steps:
 
-1- Clone this repository to your local machine:
+1- Run the Python script:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-ai.git
-```
-2- Navigate to the project directory:
-
-```bash
-cd tic-tac-toe-ai
-```
-3- Run the Python script:
-
-```bash
-python tic_tac_toe.py
+python AI_TIC_TAC_TOE.py
 ```
 This will start the game, allowing you to play against the AI.
 

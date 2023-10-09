@@ -28,17 +28,7 @@ pip install opencv-python-headless matplotlib cv2
 ```
 ## Usage
 
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/haneenalaa465/CodSoft.git
-```
-2. Navigate to the project directory:
-
-```bash
-cd CodSoft/Face-Detection-and-Recognition
-```
-3. Run the `Face_Detection_and_Recognition.ipynb` Jupyter Notebook using Jupyter or Google Colab.
+1. Run the `Face_Detection_and_Recognition.ipynb` Jupyter Notebook using Jupyter or Google Colab.
 
 ## Face Detection
 The project includes face detection capabilities, allowing you to upload an image or video and detect faces in it. It uses the Haar Cascade Classifier for face detection.
